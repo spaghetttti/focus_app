@@ -1,6 +1,6 @@
 {
   "homepage": "https://spaghetttti.github.io/focus_app/",
-  "name": "my-app",
+  "name": "focus_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
